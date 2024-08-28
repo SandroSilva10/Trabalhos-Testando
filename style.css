@@ -1,0 +1,22 @@
+body{
+    background-image: url(img/pngtree-cloud-computing-technology-background-with-blue-image_779887.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    object-fit: cover;
+    
+}
+H1{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 25px;
+   color:rgb(0, 0, 0);
+}
+.texto{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+h3{
+    color: antiquewhite;
+}
